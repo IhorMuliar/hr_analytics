@@ -9,4 +9,5 @@
 <p>1) Predict the probability of a candidate will work for the company</p>
 <p>2) Interpret model(s) such a way that illustrates which features affect candidate decision</p>
 
+<h2>Datalore</h2>
 <p>Full version you can look at Datalore. Here is the link: https://datalore.jetbrains.com/view/notebook/6ybvQty4FD4Fe7JORnGSnp</p>
